@@ -5,7 +5,7 @@ A small script to match a local music collection to spotify's "this is" playlist
 ## Requirements
 - Python
 - Spotify API access (sign up at https://developer.spotify.com )
-- A local music collection, stored with the structure /Artist/Album/Song.mp3/flac
+- A local music collection, stored with the structure /Artist/Album/Song.[mp3/flac]
 
 ## Usage
 1. Clone/Download the git repo.
